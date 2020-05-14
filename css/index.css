@@ -13,7 +13,7 @@ body p {
 }
 
 @media screen and (max-width: 992px) {
-    body img {
-         width: auto;
+    img {
+         width: 350px;
     }
 }
